@@ -1,0 +1,1 @@
+tellraw @a {"text": "Code is loaded!", "color": "0000FF"}
